@@ -1,0 +1,1 @@
+mkdir -p 96k; for f in *.mp3; do ffmpeg -i "$f" -y -c:a mp3 -ar 44100 -ac 2 -ab 96k -write_xing 0 -map 0:0 "96k/${f%.*}.mp3"; done
