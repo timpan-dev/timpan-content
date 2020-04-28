@@ -1,0 +1,25 @@
+{
+  "name": "timpan-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rpm42 <rpm42@yandex.com>",
+  "license": "MIT",
+  "dependencies": {
+    "slugify": "^1.4.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.150",
+    "@types/mkdirp": "^1.0.0",
+    "@types/node": "^13.13.4",
+    "@types/rimraf": "^3.0.0",
+    "@types/uuid": "^7.0.3",
+    "date-fns": "^2.12.0",
+    "gray-matter": "^4.0.2",
+    "lodash": "^4.17.15",
+    "mkdirp": "^1.0.4",
+    "readdirp": "^3.4.0",
+    "rimraf": "^3.0.2",
+    "uuid": "^7.0.3"
+  }
+}
