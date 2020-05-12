@@ -22,4 +22,4 @@ image:
 
 19 мая «Тимпан» даст пасхальный концерт в Клецке, где взрослый состав ансамбля и детская группа исполнят песни на стихи Аполлона Майкова, Виктора Грекова, насельника Троице-Сергиевой Лавры игумена Виссариона (Остапенко).
 
-_— [Источник](http://sobor.by/page/Ansambl_Timpan_zapisal_noviy_disk_pesen_na_stihi_igumena_Vissariona_Ostapenko)_
+*— [Источник](http://sobor.by/page/Ansambl_Timpan_zapisal_noviy_disk_pesen_na_stihi_igumena_Vissariona_Ostapenko)*
