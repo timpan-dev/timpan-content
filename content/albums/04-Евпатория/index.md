@@ -1,41 +1,43 @@
 ---
-titile: Евапатория
+id: 06dfbbcd-208f-437b-a2a0-66f1f0857c76
+title: Евапатория
+date: 2013-01-01
 tags:
-  - 
+  - Взрослым
 audio:
   cover: cover.jpg
   files:
-   - source: 104-Гимн.mp3
+   - source: audio/104-Гимн.mp3
      title: Гимн
-   - source: 105-Купола.mp3
+   - source: audio/105-Купола.mp3
      title: Купола
-   - source: 106-Русские песни.mp3
+   - source: audio/106-Русские песни.mp3
      title: Русские песни
-   - source: 107-Храм Святой Троицы.mp3
+   - source: audio/107-Храм Святой Троицы.mp3
      title: Храм Святой Троицы
-   - source: 108-Блудный сын.mp3
+   - source: audio/108-Блудный сын.mp3
      title: Блудный сын
-   - source: 109-Евпатория.mp3
+   - source: audio/109-Евпатория.mp3
      title: Евпатория
-   - source: 110-Прощание с Евпаторией.mp3
+   - source: audio/110-Прощание с Евпаторией.mp3
      title: Прощание с Евпаторией
-   - source: 111-Роза.mp3
+   - source: audio/111-Роза.mp3
      title: Роза
-   - source: 112-Пресвятая Богородица.mp3
+   - source: audio/112-Пресвятая Богородица.mp3
      title: Пресвятая Богородица
-   - source: 113-Собачки.mp3
+   - source: audio/113-Собачки.mp3
      title: Собачки
-   - source: 114-Крестный ход.mp3
+   - source: audio/114-Крестный ход.mp3
      title: Крестный ход
-   - source: 115-Отличник.mp3
+   - source: audio/115-Отличник.mp3
      title: Отличник
-   - source: 116-Церквушки.mp3
+   - source: audio/116-Церквушки.mp3
      title: Церквушки
-   - source: 117-О, Господи.mp3
+   - source: audio/117-О, Господи.mp3
      title: О, Господи
-   - source: 118-Гагарин.mp3
+   - source: audio/118-Гагарин.mp3
      title: Гагарин
-   - source: 119-Спасётся Россия.mp3
+   - source: audio/119-Спасётся Россия.mp3
      title: Спасётся Россия
 
 ---

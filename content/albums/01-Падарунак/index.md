@@ -1,25 +1,27 @@
 ---
+id: d126ddab-bb9f-425b-8415-3a8e5ce709bf
 title: Падарунак
+date: 2001-01-01
 tags:
   - Детям
 audio:
   cover: cover.jpg
   files:
-    - source: 168-Дуроник.mp3
+    - source: audio/168-Дуроник.mp3
       title: Дуроник
-    - source: 169-Коник.mp3
+    - source: audio/169-Коник.mp3
       title: Коник
-    - source: 170-Ку-ка-ра-ку.mp3
+    - source: audio/170-Ку-ка-ра-ку.mp3
       title: Вальс петушка
-    - source: 171-Семь енотов.mp3
+    - source: audio/171-Семь енотов.mp3
       title: Семь енотов
-    - source: 172-Зубр и верблюд.mp3
+    - source: audio/172-Зубр и верблюд.mp3
       title: Зубр и верблюд
-    - source: 173-Зубная щётка.mp3
+    - source: audio/173-Зубная щётка.mp3
       title: Зубная щётка Веронички
-    - source: 174-На вяселле да ката (мюзикл)_1.mp3
+    - source: audio/174-На вяселле да ката (мюзикл)_1.mp3
       title: На вяселле да ката (мюзикл). Часть 1.
-    - source: 175-На вяселле да ката (мюзикл)_2.mp3
+    - source: audio/175-На вяселле да ката (мюзикл)_2.mp3
       title: На вяселле да ката (мюзикл). Часть 2.
 ---
 
