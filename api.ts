@@ -90,6 +90,15 @@ export const getMdFiles = async (targetDir: string) => {
   return files
 }
 
+export const getLinkedFiles = async (targetDir: string) => {
+  const files = []
+  for await (const entry of readdirp(targetDir, { fileFilter: ['*.jpg', '*.jpeg', '*.png', '*.mp3', '*.pdf'] })) {
+    const { fullPath } = entry
+    files.push(fullPath)
+  }
+  return files
+}
+
 export const readMdFile = (fullPath: string) => {
   return matter.read(fullPath)
 }
@@ -102,10 +111,15 @@ export const writeOutput = (dstFile: string, output: string) => {
   fs.writeFileSync(dstFile, output, 'utf8')
 }
 
-export const writePost = (post: GrayMatterFile<string>) => {
-  mkdirp.sync(`${getPostDir(post.data)}/`)
-  const dstFile = `${getPostDir(post.data)}/index.md`
+export const writePost = async (post: GrayMatterFile<string>) => {
+  const dstDir = getPostDir(post.data)
+  mkdirp.sync(`${dstDir}/`)
+  const dstFile = `${dstDir}/index.md`
   writeOutput(dstFile, getMdOutput(post))
+  const linkedFiles = await getLinkedFiles(dirname((post as any).path))
+  for (const file of linkedFiles) {
+    fs.copyFileSync(file, join(dstDir, basename(file)))
+  }
 }
 
 export const writePage = (page: GrayMatterFile<string>) => {

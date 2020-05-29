@@ -1,10 +1,12 @@
+import {dirname} from 'path'
 import {
   getMdFiles,
   readMdFile,
-  writePost
+  writePost,
+  getLinkedFiles
 } from './api'
 
-import uuid from 'uuid/v4'
+import { v4 as uuid } from 'uuid'
 
 async function main() {
   const files = await getMdFiles('./draft/posts')
@@ -13,7 +15,17 @@ async function main() {
     return post
   })
 
-  posts.forEach(post => writePost(post))
+  // for await (const post of posts) {
+  //   // console.log(dirname((post as any).path))
+  //   const linkedFiles = await getLinkedFiles(dirname((post as any).path))
+  //   console.log(linkedFiles)
+  // }
+
+  // console.log(posts)
+  // posts.forEach(post => writePost(post))
+  for await (const post of posts) {
+    await writePost(post)
+  }
 }
 
 main()
