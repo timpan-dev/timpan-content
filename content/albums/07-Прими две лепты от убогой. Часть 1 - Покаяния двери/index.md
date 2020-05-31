@@ -9,10 +9,10 @@ audio:
   files:
   - source: audio/268-Ты прости.mp3
     title: Ты прости 
-  - source: audio/269-Тихий день.mp3
-    title: Тихий день 
-  - source: audio/270-Еврейская девочка. А вчера.mp3
-    title: Еврейская девочка. А вчера 
+  - source: audio/269-Тихий день.mp3
+    title: Тихий день 
+  - source: audio/270-Еврейская девочка. А вчера.mp3
+    title: Еврейская девочка. А вчера 
   - source: audio/271-Мои люди, Сотвори, о, Мать.mp3
     title: Мои люди, Сотвори, о, Мать 
   - source: audio/272-Была ли это я.mp3

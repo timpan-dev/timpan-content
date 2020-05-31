@@ -31,10 +31,10 @@ audio:
       title: Буква 'Е'
     - source: audio/020-Евангелие.mp3
       title: Евангелие
-    - source: audio/021-буква 'Ё'.mp3
-      title: Буква 'Ё'
-    - source: audio/022-Ёлка.mp3
-      title: Ёлка
+    - source: audio/021-буква 'Ё'.mp3
+      title: Буква 'Ё'
+    - source: audio/022-Ёлка.mp3
+      title: Ёлка
     - source: audio/023-буква 'Ж'.mp3
       title: Буква 'Ж'
     - source: audio/024-Жалость.mp3
@@ -47,8 +47,8 @@ audio:
       title: Буква 'И'
     - source: audio/028-Икона.mp3
       title: Икона
-    - source: audio/029-буквы 'Й', 'К'.mp3
-      title: Буквы 'Й', 'К'
+    - source: audio/029-буквы 'Й', 'К'.mp3
+      title: Буквы 'Й', 'К'
     - source: audio/030-Крестик.mp3
       title: Крестик
     - source: audio/031-буква 'Л'.mp3
@@ -85,8 +85,8 @@ audio:
       title: Творец
     - source: audio/047-буква 'У'.mp3
       title: Буква 'У'
-    - source: audio/048-Угодник Божий.mp3
-      title: Угодник Божий
+    - source: audio/048-Угодник Божий.mp3
+      title: Угодник Божий
     - source: audio/049-буква 'Ф'.mp3
       title: Буква 'Ф'
     - source: audio/050-Фарисеи.mp3
@@ -109,8 +109,8 @@ audio:
       title: Шестокрылатые Серафимы
     - source: audio/059-буква 'Щ'.mp3
       title: Буква 'Щ'
-    - source: audio/060-Щедрый человек.mp3
-      title: Щедрый человек
+    - source: audio/060-Щедрый человек.mp3
+      title: Щедрый человек
     - source: audio/061-буквы 'Ъ', 'Ы', 'Ь'.mp3
       title: Буквы 'Ъ', 'Ы', 'Ь'
     - source: audio/062-буква 'Э'.mp3
@@ -123,8 +123,8 @@ audio:
       title: Юдоль земная
     - source: audio/066-буква 'Я'.mp3
       title: Буква 'Я'
-    - source: audio/067-Яйцо пасхальное.mp3
-      title: Яйцо пасхальное
+    - source: audio/067-Яйцо пасхальное.mp3
+      title: Яйцо пасхальное
 ---
 
 **Стихи:**
