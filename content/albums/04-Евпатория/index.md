@@ -7,37 +7,37 @@ tags:
 audio:
   cover: cover.jpg
   files:
-   - source: audio/104-Гимн.mp3
+   - source: audio/104-Gimn.mp3
      title: Гимн
-   - source: audio/105-Купола.mp3
+   - source: audio/105-Kupola.mp3
      title: Купола
-   - source: audio/106-Русские песни.mp3
+   - source: audio/106-Russkie-pesni.mp3
      title: Русские песни
-   - source: audio/107-Храм Святой Троицы.mp3
+   - source: audio/107-Hram-Svyatoy-Troicy.mp3
      title: Храм Святой Троицы
-   - source: audio/108-Блудный сын.mp3
+   - source: audio/108-Bludnyy-syn.mp3
      title: Блудный сын
-   - source: audio/109-Евпатория.mp3
+   - source: audio/109-Evpatoriya.mp3
      title: Евпатория
-   - source: audio/110-Прощание с Евпаторией.mp3
+   - source: audio/110-Proshchanie-s-Evpatoriey.mp3
      title: Прощание с Евпаторией
-   - source: audio/111-Роза.mp3
+   - source: audio/111-Roza.mp3
      title: Роза
-   - source: audio/112-Пресвятая Богородица.mp3
+   - source: audio/112-Presvyataya-Bogorodica.mp3
      title: Пресвятая Богородица
-   - source: audio/113-Собачки.mp3
+   - source: audio/113-Sobachki.mp3
      title: Собачки
-   - source: audio/114-Крестный ход.mp3
+   - source: audio/114-Krestnyy-hod.mp3
      title: Крестный ход
-   - source: audio/115-Отличник.mp3
+   - source: audio/115-Otlichnik.mp3
      title: Отличник
-   - source: audio/116-Церквушки.mp3
+   - source: audio/116-Cerkvushki.mp3
      title: Церквушки
-   - source: audio/117-О, Господи.mp3
+   - source: audio/117-O-Gospodi.mp3
      title: О, Господи
-   - source: audio/118-Гагарин.mp3
+   - source: audio/118-Gagarin.mp3
      title: Гагарин
-   - source: audio/119-Спасётся Россия.mp3
+   - source: audio/119-Spasyotsya-Rossiya.mp3
      title: Спасётся Россия
 
 ---

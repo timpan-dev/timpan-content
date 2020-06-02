@@ -7,123 +7,123 @@ tags:
 audio:
   cover: cover.jpg
   files:
-    - source: audio/009-буква 'А'.mp3
+    - source: audio/009-bukva-A.mp3
       title: Буква 'А'
-    - source: audio/010-Ангел.mp3
+    - source: audio/010-Angel.mp3
       title: Ангел
-    - source: audio/011-буква 'Б'.mp3
+    - source: audio/011-bukva-B.mp3
       title: Буква 'Б'
-    - source: audio/012-Бог.mp3
+    - source: audio/012-Bog.mp3
       title: Бог
-    - source: audio/013-буква 'В'.mp3
+    - source: audio/013-bukva-V.mp3
       title: Буква 'В'
-    - source: audio/014-Воскресенье.mp3
+    - source: audio/014-Voskresene.mp3
       title: Воскресенье
-    - source: audio/015-буква 'Г'.mp3
+    - source: audio/015-bukva-G.mp3
       title: Буква 'Г'
-    - source: audio/016-Грех.mp3
+    - source: audio/016-Greh.mp3
       title: Грех
-    - source: audio/017-буква 'Д'.mp3
+    - source: audio/017-bukva-D.mp3
       title: Буква 'Д'
-    - source: audio/018-Душа.mp3
+    - source: audio/018-Dusha.mp3
       title: Душа
-    - source: audio/019-буква 'Е'.mp3
+    - source: audio/019-bukva-E.mp3
       title: Буква 'Е'
-    - source: audio/020-Евангелие.mp3
+    - source: audio/020-Evangelie.mp3
       title: Евангелие
-    - source: audio/021-буква 'Ё'.mp3
+    - source: audio/021-bukva-YO.mp3
       title: Буква 'Ё'
-    - source: audio/022-Ёлка.mp3
+    - source: audio/022-YOlka.mp3
       title: Ёлка
-    - source: audio/023-буква 'Ж'.mp3
+    - source: audio/023-bukva-ZH.mp3
       title: Буква 'Ж'
-    - source: audio/024-Жалость.mp3
+    - source: audio/024-ZHalost.mp3
       title: Жалость
-    - source: audio/025-буква 'З'.mp3
+    - source: audio/025-bukva-Z.mp3
       title: Буква 'З'
-    - source: audio/026-Зло.mp3
+    - source: audio/026-Zlo.mp3
       title: Зло
-    - source: audio/027-буква 'И'.mp3
+    - source: audio/027-bukva-I.mp3
       title: Буква 'И'
-    - source: audio/028-Икона.mp3
+    - source: audio/028-Ikona.mp3
       title: Икона
-    - source: audio/029-буквы 'Й', 'К'.mp3
+    - source: audio/029-bukvy-II-K.mp3
       title: Буквы 'Й', 'К'
-    - source: audio/030-Крестик.mp3
+    - source: audio/030-Krestik.mp3
       title: Крестик
-    - source: audio/031-буква 'Л'.mp3
+    - source: audio/031-bukva-L.mp3
       title: Буква 'Л'
-    - source: audio/032-Любовь.mp3
+    - source: audio/032-Lyubov.mp3
       title: Любовь
-    - source: audio/033-буква 'М'.mp3
+    - source: audio/033-bukva-M.mp3
       title: Буква 'М'
-    - source: audio/034-Молитва.mp3
+    - source: audio/034-Molitva.mp3
       title: Молитва
-    - source: audio/035-буква 'Н'.mp3
+    - source: audio/035-bukva-N.mp3
       title: Буква 'Н'
-    - source: audio/036-Надежда.mp3
+    - source: audio/036-Nadezhda.mp3
       title: Надежда
-    - source: audio/037-буква 'О'.mp3
+    - source: audio/037-bukva-O.mp3
       title: Буква 'О'
-    - source: audio/038-Обида.mp3
+    - source: audio/038-Obida.mp3
       title: Обида
-    - source: audio/039-буква 'П'.mp3
+    - source: audio/039-bukva-P.mp3
       title: Буква 'П'
-    - source: audio/040-Пасха.mp3
+    - source: audio/040-Pasha.mp3
       title: Пасха
-    - source: audio/041-буква 'Р'.mp3
+    - source: audio/041-bukva-R.mp3
       title: Буква 'Р'
-    - source: audio/042-Рождество.mp3
+    - source: audio/042-Rozhdestvo.mp3
       title: Рождество
-    - source: audio/043-буква 'С'.mp3
+    - source: audio/043-bukva-S.mp3
       title: Буква 'С'
-    - source: audio/044-Свечка.mp3
+    - source: audio/044-Svechka.mp3
       title: Свечка
-    - source: audio/045-буква 'Т'.mp3
+    - source: audio/045-bukva-T.mp3
       title: Буква 'Т'
-    - source: audio/046-Творец.mp3
+    - source: audio/046-Tvorec.mp3
       title: Творец
-    - source: audio/047-буква 'У'.mp3
+    - source: audio/047-bukva-U.mp3
       title: Буква 'У'
-    - source: audio/048-Угодник Божий.mp3
+    - source: audio/048-Ugodnik-Bozhiy.mp3
       title: Угодник Божий
-    - source: audio/049-буква 'Ф'.mp3
+    - source: audio/049-bukva-F.mp3
       title: Буква 'Ф'
-    - source: audio/050-Фарисеи.mp3
+    - source: audio/050-Farisei.mp3
       title: Фарисеи
-    - source: audio/051-буква 'Х'.mp3
+    - source: audio/051-bukva-H.mp3
       title: Буква 'Х'
-    - source: audio/052-Храм.mp3
+    - source: audio/052-Hram.mp3
       title: Храм
-    - source: audio/053-буква 'Ц'.mp3
+    - source: audio/053-bukva-C.mp3
       title: Буква 'Ц'
-    - source: audio/054-Царство Небесное.mp3
+    - source: audio/054-Carstvo-Nebesnoe.mp3
       title: Царство Небесное
-    - source: audio/055-буква 'Ч'.mp3
+    - source: audio/055-bukva-CH.mp3
       title: Буква 'Ч'
-    - source: audio/056-Чаша.mp3
+    - source: audio/056-CHasha.mp3
       title: Чаша
-    - source: audio/057-буква 'Ш'.mp3
+    - source: audio/057-bukva-SH.mp3
       title: Буква 'Ш'
-    - source: audio/058-Шестокрылатые Серафимы.mp3
+    - source: audio/058-SHestokrylatye-Serafimy.mp3
       title: Шестокрылатые Серафимы
-    - source: audio/059-буква 'Щ'.mp3
+    - source: audio/059-bukva-SHCH.mp3
       title: Буква 'Щ'
-    - source: audio/060-Щедрый человек.mp3
+    - source: audio/060-SHCHedryy-chelovek.mp3
       title: Щедрый человек
-    - source: audio/061-буквы 'Ъ', 'Ы', 'Ь'.mp3
+    - source: audio/061-bukvy-tb-bl-b.mp3
       title: Буквы 'Ъ', 'Ы', 'Ь'
-    - source: audio/062-буква 'Э'.mp3
+    - source: audio/062-bukva-EE.mp3
       title: Буква 'Э'
-    - source: audio/063-Эгоист.mp3
+    - source: audio/063-Egoist.mp3
       title: Эгоист
-    - source: audio/064-буква 'Ю'.mp3
+    - source: audio/064-bukva-YU.mp3
       title: Буква 'Ю'
-    - source: audio/065-Юдоль земная.mp3
+    - source: audio/065-YUdol-zemnaya.mp3
       title: Юдоль земная
-    - source: audio/066-буква 'Я'.mp3
+    - source: audio/066-bukva-YA.mp3
       title: Буква 'Я'
-    - source: audio/067-Яйцо пасхальное.mp3
+    - source: audio/067-YAyco-pashalnoe.mp3
       title: Яйцо пасхальное
 ---
 

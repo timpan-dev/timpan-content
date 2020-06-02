@@ -7,21 +7,21 @@ tags:
 audio:
   cover: cover.jpg
   files:
-    - source: audio/168-Дуроник.mp3
+    - source: audio/168-Duronik.mp3
       title: Дуроник
-    - source: audio/169-Коник.mp3
+    - source: audio/169-Konik.mp3
       title: Коник
-    - source: audio/170-Ку-ка-ра-ку.mp3
+    - source: audio/170-Ku-ka-ra-ku.mp3
       title: Вальс петушка
-    - source: audio/171-Семь енотов.mp3
+    - source: audio/171-Sem-enotov.mp3
       title: Семь енотов
-    - source: audio/172-Зубр и верблюд.mp3
+    - source: audio/172-Zubr-i-verblyud.mp3
       title: Зубр и верблюд
-    - source: audio/173-Зубная щётка.mp3
+    - source: audio/173-Zubnaya-shchyotka.mp3
       title: Зубная щётка Веронички
-    - source: audio/174-На вяселле да ката (мюзикл)_1.mp3
+    - source: audio/174-Na-vyaselle-da-kata-myuzikl1.mp3
       title: На вяселле да ката (мюзикл). Часть 1.
-    - source: audio/175-На вяселле да ката (мюзикл)_2.mp3
+    - source: audio/175-Na-vyaselle-da-kata-myuzikl2.mp3
       title: На вяселле да ката (мюзикл). Часть 2.
 ---
 

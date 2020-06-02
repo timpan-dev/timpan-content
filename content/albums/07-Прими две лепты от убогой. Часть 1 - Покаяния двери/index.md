@@ -7,25 +7,25 @@ tags:
 audio:
   cover: cover.jpg
   files:
-  - source: audio/268-Ты прости.mp3
+  - source: audio/268-Ty-prosti.mp3
     title: Ты прости 
-  - source: audio/269-Тихий день.mp3
+  - source: audio/269-Tihiy-den.mp3
     title: Тихий день 
-  - source: audio/270-Еврейская девочка. А вчера.mp3
+  - source: audio/270-Evreyskaya-devochka-A-vchera.mp3
     title: Еврейская девочка. А вчера 
-  - source: audio/271-Мои люди, Сотвори, о, Мать.mp3
+  - source: audio/271-Moi-lyudi-Sotvori-o-Mat.mp3
     title: Мои люди, Сотвори, о, Мать 
-  - source: audio/272-Была ли это я.mp3
+  - source: audio/272-Byla-li-eto-ya.mp3
     title: Была ли это я 
-  - source: audio/273-Снова.mp3
+  - source: audio/273-Snova.mp3
     title: Снова 
-  - source: audio/274-Твоя икона.mp3
+  - source: audio/274-Tvoya-ikona.mp3
     title: Твоя икона 
-  - source: audio/275-м.Анастасия.mp3
+  - source: audio/275-mAnastasiya.mp3
     title: м.Анастасия 
-  - source: audio/276-Сани.mp3
+  - source: audio/276-Sani.mp3
     title: Сани 
-  - source: audio/277-В Вифлиемском храме. Обитель.mp3
+  - source: audio/277-V-Vifliemskom-hrame-Obitel.mp3
     title: В Вифлиемском храме. Обитель 
 ---
 

@@ -7,27 +7,27 @@ tags:
 audio:
   cover: cover.jpg
   files:
-  - source: audio/201-Русская свеча.mp3
+  - source: audio/201-Russkaya-svecha.mp3
     title: Русская свеча
-  - source: audio/202-К Пресвятой Богородице.mp3
+  - source: audio/202-K-Presvyatoy-Bogorodice.mp3
     title: К Пресвятой Богородице
-  - source: audio/203-Время.mp3
+  - source: audio/203-Vremya.mp3
     title: Время
-  - source: audio/204-Господи, прости.mp3
+  - source: audio/204-Gospodi-prosti.mp3
     title: Господи, прости
-  - source: audio/205-Небо звёздное.mp3
+  - source: audio/205-Nebo-zvyozdnoe.mp3
     title: Небо звёздное
-  - source: audio/206-Прочь.mp3
+  - source: audio/206-Proch.mp3
     title: Прочь
-  - source: audio/207-Две дороги.mp3
+  - source: audio/207-Dve-dorogi.mp3
     title: Две дороги
-  - source: audio/208-На берегу.mp3
+  - source: audio/208-Na-beregu.mp3
     title: На берегу
-  - source: audio/209-Пасхальное.mp3
+  - source: audio/209-Pashalnoe.mp3
     title: Пасхальное
-  - source: audio/210-Солнце.mp3
+  - source: audio/210-Solnce.mp3
     title: Солнце
-  - source: audio/211-Соделай.mp3
+  - source: audio/211-Sodelay.mp3
     title: Соделай
 ---
 Русская свеча — музыкальная поэма

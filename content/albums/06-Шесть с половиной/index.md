@@ -6,75 +6,75 @@ tags:
 audio:
   cover: cover.jpg
   files:
-  - source: audio/04 - Слово Артема Завьялова.mp3
+  - source: audio/01-Poet-Stihi-Dmiriya-Molchana.mp3
     title: Поэт. Стихи Дмирия Молчана
-  - source: audio/01 - Поэт. Стихи Дмирия Молчана.mp3
+  - source: audio/02-Slovo-Vladimira-Kazbanova.mp3
     title: Слово Владимира Казбанова
-  - source: audio/02 - Слово Владимира Казбанова.mp3
+  - source: audio/03-Pishu-o-lyubvi-Stihi-Dmitriya-Molchana.mp3
     title: Пишу о любви. Стихи Дмитрия Молчана
-  - source: audio/03 - Пишу о любви. Стихи Дмитрия Молчана.mp3
+  - source: audio/04-Slovo-Artema-Zavyalova.mp3
     title: Слово Артема Завьялова
-  - source: audio/05 - Стоит средь города церквушка. Стихи Дмитрия Базылевича.mp3
+  - source: audio/05-Stoit-sred-goroda-cerkvushka-Stihi-Dmitriya-Bazylevicha.mp3
     title: Стоит средь города церквушка. Стихи Дмитрия Базылевича
-  - source: audio/06 - Слово протоиерея Александра Харламава.mp3
+  - source: audio/06-Slovo-protoiereya-Aleksandra-Harlamava.mp3
     title: Слово протоиерея Александра Харламава
-  - source: audio/07 - Солнце. Стихи монаха Варнавы (Санина).mp3
+  - source: audio/07-Solnce-Stihi-monaha-Varnavy-Sanina.mp3
     title: Солнце. Стихи монаха Варнавы (Санина)
-  - source: audio/08 - Слово Ольги Патрий.mp3
-    title: Слово Ольги Патрий
-  - source: audio/09 - Город. Стихи Геннадия Шульмана.mp3
-    title: Город. Стихи Геннадия Шульмана.
-  - source: audio/10 - Слово Артема Завьялова.mp3
+  - source: audio/08-Slovo-Olgi-Patrii.mp3
+    title: Слово Ольги Патрий
+  - source: audio/09-Gorod-Stihi-Gennadiya-SHulmana.mp3
+    title: Город. Стихи Геннадия Шульмана
+  - source: audio/10-Slovo-Artema-Zavyalova.mp3
     title: Слово Артема Завьялова
-  - source: audio/11 - Я вернусь. Стихи Геннадия Шульмана.mp3
+  - source: audio/11-YA-vernus-Stihi-Gennadiya-SHulmana.mp3
     title: Я вернусь. Стихи Геннадия Шульмана
-  - source: audio/12 - Слово Артема Завьялова.mp3
+  - source: audio/12-Slovo-Artema-Zavyalova.mp3
     title: Слово Артема Завьялова
-  - source: audio/13 - Какое счастье. Стихи Геннадия Шульмана.mp3
+  - source: audio/13-Kakoe-schaste-Stihi-Gennadiya-SHulmana.mp3
     title: Какое счастье. Стихи Геннадия Шульмана
-  - source: audio/14 - Слово Владимира Казбанова.mp3
+  - source: audio/14-Slovo-Vladimira-Kazbanova.mp3
     title: Слово Владимира Казбанова
-  - source: audio/15 - Этой ночью. Стихи Геннадия.mp3
-    title: Этой ночью. Стихи Геннадия
-  - source: audio/16 - Слово Владимира Казбанова.mp3
+  - source: audio/15-Etoi-nochyu-Stihi-Gennadiya.mp3
+    title: Этой ночью. Стихи Геннадия
+  - source: audio/16-Slovo-Vladimira-Kazbanova.mp3
     title: Слово Владимира Казбанова
-  - source: audio/17 - Пред иконою. Стихи Дмитрия Базылевича.mp3
+  - source: audio/17-Pred-ikonoyu-Stihi-Dmitriya-Bazylevicha.mp3
     title: Пред иконою. Стихи Дмитрия Базылевича
-  - source: audio/18 - Слово Людмилы Кравцовой.mp3
-    title: Слово Людмилы Кравцовой
-  - source: audio/19 - Облака.  Стихи Дмитрия Молчана.mp3
+  - source: audio/18-Slovo-Lyudmily-Kravcovoi.mp3
+    title: Слово Людмилы Кравцовой
+  - source: audio/19-Oblaka--Stihi-Dmitriya-Molchana.mp3
     title: Облака.  Стихи Дмитрия Молчана
-  - source: audio/20 - Слово Артема Завьялова.mp3
+  - source: audio/20-Slovo-Artema-Zavyalova.mp3
     title: Слово Артема Завьялова
-  - source: audio/21 - Это ради Тебя. Стихи Дмитрия Базылевича.mp3
+  - source: audio/21-Eto-radi-Tebya-Stihi-Dmitriya-Bazylevicha.mp3
     title: Это ради Тебя. Стихи Дмитрия Базылевича
-  - source: audio/22 - Слово протоиерея Александра Харламава.mp3
+  - source: audio/22-Slovo-protoiereya-Aleksandra-Harlamava.mp3
     title: Слово протоиерея Александра Харламава
-  - source: audio/23 - Преоброжение. Стихи Елены Михаленко.mp3
+  - source: audio/23-Preobrozhenie-Stihi-Eleny-Mihalenko.mp3
     title: Преоброжение. Стихи Елены Михаленко
-  - source: audio/24 - Слово Ольги Кривошеевой.mp3
-    title: Слово Ольги Кривошеевой
-  - source: audio/25 - Тебе. Стихи Геннадия Шульмана.mp3
+  - source: audio/24-Slovo-Olgi-Krivosheevoi.mp3
+    title: Слово Ольги Кривошеевой
+  - source: audio/25-Tebe-Stihi-Gennadiya-SHulmana.mp3
     title: Тебе. Стихи Геннадия Шульмана
-  - source: audio/26 - Слово Артема Завьялова.mp3
+  - source: audio/26-Slovo-Artema-Zavyalova.mp3
     title: Слово Артема Завьялова
-  - source: audio/27 - Храм Святой Троицы. Стихи Виктора Грекова.mp3
-    title: Храм Святой Троицы. Стихи Виктора Грекова
-  - source: audio/28 - Слово Ольги Патрий.mp3
-    title: Слово Ольги Патрий
-  - source: audio/29 - День удалился. Стихи Геннадия Шульмана.mp3
+  - source: audio/27-Hram-Svyatoi-Troicy-Stihi-Viktora-Grekova.mp3
+    title: Храм Святой Троицы. Стихи Виктора Грекова
+  - source: audio/28-Slovo-Olgi-Patrii.mp3
+    title: Слово Ольги Патрий
+  - source: audio/29-Den-udalilsya-Stihi-Gennadiya-SHulmana.mp3
     title: День удалился. Стихи Геннадия Шульмана
-  - source: audio/30 - Слово Владимира Казбанова.mp3
+  - source: audio/30-Slovo-Vladimira-Kazbanova.mp3
     title: Слово Владимира Казбанова
-  - source: audio/31 - Осень любит листья. Стихи Дмирия.mp3
+  - source: audio/31-Osen-lyubit-listya-Stihi-Dmiriya.mp3
     title: Осень любит листья. Стихи Дмирия
-  - source: audio/32 - Слово протоиерея Александра Харламава.mp3
+  - source: audio/32-Slovo-protoiereya-Aleksandra-Harlamava.mp3
     title: Слово протоиерея Александра Харламава
-  - source: audio/33 - Ну и что же... Стихи Дмирия.mp3
+  - source: audio/33-Nu-i-chto-zhe-Stihi-Dmiriya.mp3
     title: Ну и что же... Стихи Дмирия
-  - source: audio/34 - Слово Владимира Казбанова.mp3
+  - source: audio/34-Slovo-Vladimira-Kazbanova.mp3
     title: Слово Владимира Казбанова
-  - source: audio/35 - Слава Богу! Стихи монаха Варнавы (Санина).mp3
+  - source: audio/35-Slava-Bogu-Stihi-monaha-Varnavy-Sanina.mp3
     title: Слава Богу! Стихи монаха Варнавы (Санина)
 ---
 
