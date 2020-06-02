@@ -1,25 +1,89 @@
 ---
-- title: Вербочки
-  desc: ''
-  cover: images/15-Verbnoe - Full Score.png
-  attachment: attachment/15-Verbnoe - Full Score.pdf
-
-- title: Колыбельная
-  desc: ''
-  cover: images/18-Kolibelnaya - Full Score.png
-  attachment: attachment/18-Kolibelnaya - Full Score.pdf
-
-- title: Сочельник в лесу
-  desc: ''
-  cover: images/19-Sochelnik-v-lesu - Full Score.png
-  attachment: attachment/19-Sochelnik-v-lesu - Full Score.pdf
-
 - title: Девушка пела
   desc: ''
-  cover: images/20-Devushka-pela - Full Score.png
-  attachment: attachment/20-Devushka-pela - Full Score.pdf
-
-- title: Архангельский глас
+  cover: images/Devushka-pela.png
+  attachment: attachment/Devushka-pela.pdf
+- title: Ангеле Божий
   desc: ''
-  cover: images/22-Arhangelski-glas - Full Score.png
-  attachment: attachment/22-Arhangelski-glas - Full Score.pdf
+  cover: images/Angele-Bozhii.png
+  attachment: attachment/Angele-Bozhii.pdf
+- title: Архангельский глас
+  desc: ''
+  cover: images/Arhangelskii-glas.png
+  attachment: attachment/Arhangelskii-glas.pdf
+- title: Вербное
+  desc: ''
+  cover: images/Verbnoe.png
+  attachment: attachment/Verbnoe.pdf
+- title: Доброй ночи, анусенька
+  desc: ''
+  cover: images/Dobroi-nochi-anusenka.png
+  attachment: attachment/Dobroi-nochi-anusenka.pdf
+- title: Иди и буди
+  desc: ''
+  cover: images/Idi-i-budi.png
+  attachment: attachment/Idi-i-budi.pdf
+- title: К празднику
+  desc: ''
+  cover: images/K-prazdniku.png
+  attachment: attachment/K-prazdniku.pdf
+- title: Колыбельная
+  desc: ''
+  cover: images/Kolybelnaya.png
+  attachment: attachment/Kolybelnaya.pdf
+- title: Крестик
+  desc: ''
+  cover: images/Krestik.png
+  attachment: attachment/Krestik.pdf
+- title: Мелодии из «Полоцкой тетради»
+  desc: ''
+  cover: images/Melodii-iz-Polockoi-tetradi.png
+  attachment: attachment/Melodii-iz-Polockoi-tetradi.pdf
+- title: Молитва о спасении пострадавших от ядерной катастрофы в Чернобыле
+  desc: ''
+  cover: images/Molitva-o-spasenii-postradavshih-ot-yadernoi-katastrofy-v-CHernobyle.png
+  attachment: attachment/Molitva-o-spasenii-postradavshih-ot-yadernoi-katastrofy-v-CHernobyle.pdf
+- title: Небо и земля
+  desc: ''
+  cover: images/Nebo-i-zemlya.png
+  attachment: attachment/Nebo-i-zemlya.pdf
+- title: Нова радость стала
+  desc: ''
+  cover: images/Nova-radost-stala.png
+  attachment: attachment/Nova-radost-stala.pdf
+- title: Отче наш
+  desc: ''
+  cover: images/Otche-nash.png
+  attachment: attachment/Otche-nash.pdf
+- title: Ранен я тобой
+  desc: ''
+  cover: images/Ranen-ya-toboi.png
+  attachment: attachment/Ranen-ya-toboi.pdf
+- title: Рождественское
+  desc: ''
+  cover: images/Rozhdestvenskoe.png
+  attachment: attachment/Rozhdestvenskoe.pdf
+- title: Скиния златая
+  desc: ''
+  cover: images/Skiniya-zlataya.png
+  attachment: attachment/Skiniya-zlataya.pdf
+- title: Сочельник в лесу
+  desc: ''
+  cover: images/Sochelnik-v-lesu.png
+  attachment: attachment/Sochelnik-v-lesu.pdf
+- title: Терпение
+  desc: ''
+  cover: images/Terpenie.png
+  attachment: attachment/Terpenie.pdf
+- title: Тишина в лесу
+  desc: ''
+  cover: images/Tishina-v-lesu.png
+  attachment: attachment/Tishina-v-lesu.pdf
+- title: Трисвятое (болгарское)
+  desc: ''
+  cover: images/Trisvyatoe-bolgarskoe.png
+  attachment: attachment/Trisvyatoe-bolgarskoe.pdf
+- title: Царю небесный
+  desc: ''
+  cover: images/Caryu-nebesnyi.png
+  attachment: attachment/Caryu-nebesnyi.pdf
