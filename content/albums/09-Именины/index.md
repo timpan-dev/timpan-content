@@ -1,36 +1,38 @@
 ---
-titile: Именины
+id: 730974ee-a4bc-4592-8ee6-834fbca265c6
+date: 2013-01-01
+title: Именины
 tags:
-  - 
+  - Взрослым
 audio:
   cover: cover.jpg
   files:
-   - source: 120-Русь.mp3
-     title: 120-Русь.mp3
-   - source: 121-Ко Пресвятой Богородице.mp3
-     title: 121-Ко Пресвятой Богородице.mp3
-   - source: 122-Осень.mp3
-     title: 122-Осень.mp3
-   - source: 123-А мы верить не хотим.mp3
-     title: 123-А мы верить не хотим.mp3
-   - source: 124-Совесть.mp3
-     title: 124-Совесть.mp3
-   - source: 125-Письмо.mp3
-     title: 125-Письмо.mp3
-   - source: 126-Невеста.mp3
-     title: 126-Невеста.mp3
-   - source: 127-Ангел.mp3
-     title: 127-Ангел.mp3
-   - source: 128-Молитовка.mp3
-     title: 128-Молитовка.mp3
-   - source: 129-Дай силы мне.mp3
-     title: 129-Дай силы мне.mp3
-   - source: 130-Стихотворение (читает игумен Виссарион).mp3
-     title: 130-Стихотворение (читает игумен Виссарион).mp3
-   - source: 131-Не ленися.mp3
-     title: 131-Не ленися.mp3
-   - source: 132-Весна.mp3
-     title: 132-Весна.mp3
+    - source: audio/120-Rus.mp3
+      title: 120-Русь.mp3
+    - source: audio/121-Ko-Presvyatoi-Bogorodice.mp3
+      title: 121-Ко Пресвятой Богородице.mp3
+    - source: audio/122-Osen.mp3
+      title: 122-Осень.mp3
+    - source: audio/123-A-my-verit-ne-hotim.mp3
+      title: 123-А мы верить не хотим.mp3
+    - source: audio/124-Sovest.mp3
+      title: 124-Совесть.mp3
+    - source: audio/125-Pismo.mp3
+      title: 125-Письмо.mp3
+    - source: audio/126-Nevesta.mp3
+      title: 126-Невеста.mp3
+    - source: audio/127-Angel.mp3
+      title: 127-Ангел.mp3
+    - source: audio/128-Molitovka.mp3
+      title: 128-Молитовка.mp3
+    - source: audio/129-Dai-sily-mne.mp3
+      title: 129-Дай силы мне.mp3
+    - source: audio/130-Stihotvorenie-chitaet-igumen-Vissarion.mp3
+      title: 130-Стихотворение (читает игумен Виссарион).mp3
+    - source: audio/131-Ne-lenisya.mp3
+      title: 131-Не ленися.mp3
+    - source: audio/132-Vesna.mp3
+      title: 132-Весна.mp3
 ---
 
 Песенная композиция на стихи Игумена Виссариона (Остапенко)
@@ -54,6 +56,7 @@ audio:
 Автор стихов — **игумен Виссарион (Остапенко)**, насельник Свято-Троицкой Сергиевой Лавры
 
 **Исполнитнли**
+
 * Ансамбль "Тимпан" (1,3,5,6,10,12,13)
 * Мария Казбанова (7)
 * Ольга Кривошеева (9)
