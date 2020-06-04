@@ -2,7 +2,7 @@
 id: bf9444db-9edb-490b-9f43-29eb39688fcf
 title: Троицыно утро
 date: 1994-01-01
-tags: []
+tags: [Взрослым]
 audio:
   cover: cover.jpg
   files:

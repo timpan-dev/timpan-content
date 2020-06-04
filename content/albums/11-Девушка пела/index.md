@@ -1,8 +1,8 @@
 ---
 id: fa967de9-31b7-431e-8c24-56fe238eb6bf
 title: Девушка пела
-date: 2009-02-02
-tags: []
+date: 1995-03-03
+tags: [Детям]
 audio:
   cover: cover.jpg
   files: 
